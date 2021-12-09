@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1635393143 source:c:\users\karraa navaneetha\documents\ctc-1\1278\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635393625 source:c:\users\karraa navaneetha\documents\ctc-1\1278\sample.c
+
+1635396209 source:c:\users\karraa navaneetha\documents\ctc-1\1278\bubble_sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1635399004 source:c:\users\karraa navaneetha\documents\ctc-1\1278\insertion_sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1635400538 source:c:\users\karraa navaneetha\documents\ctc-1\1278\selection_sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1636377438 source:c:\users\karraa navaneetha\documents\ctc-1\1278\main_fun.c
+	<stdio.h>
+
+1636465717 source:c:\users\karraa navaneetha\documents\ctc-1\1278\counting_sort.c
+	<stdio.h>
+
